@@ -1,0 +1,2 @@
+webpackJsonp([0],{VmfC:function(e,t,o){"use strict";o.d(t,"a",function(){return r});var r=function(e){var t=Date.parse(e),o=Date.now()-t;return o<6e4?"刚刚":o<36e5?Math.floor(o/6e4)+"分钟前":o<864e5?Math.floor(o/36e5)+"小时前":Math.floor(o/864e5)+"天前"}}});
+//# sourceMappingURL=0.971f402aecb2385290dc.js.map
